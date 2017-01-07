@@ -1,9 +1,19 @@
-div {
-  
-  background-color:red
-
+.container1 {
+  color: red;
+}
+.container {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 300px;
+  padding-right: 150px;
+  width: 800px;
+  background-color:red;
 }
 
 h1 {
   color:white
+}
+h2 {
+  color:gray;
+  font-size: 15px;
 }
